@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Experience-1%2B%20Year-0f172a?style=flat-square" alt="Experience" />
+  <img src="https://img.shields.io/badge/Domain-Government%20Portals-1d4ed8?style=flat-square" alt="Domain" />
+  <img src="https://img.shields.io/badge/Specialty-Backend%20%26%20APIs-166534?style=flat-square" alt="Specialty" />
+</p>
+
+<p align="center">
   <a href="mailto:ziaullah.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/zia-ullah-3373b5370"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://zia-ullah01921.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-Live-black?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -14,6 +20,29 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=900&color=0B132B&center=true&vCenter=true&width=860&lines=Building+reliable+Laravel+backends+for+real-world+public+systems;Designing+clean+REST+APIs+and+scalable+database+flows;Using+AI+tools+to+ship+faster+with+better+code+quality" alt="Typing intro" />
 </p>
+
+---
+
+## Professional Snapshot
+
+<table>
+  <tr>
+    <td><b>Current Role</b></td>
+    <td>Backend Developer at PITB, Arfa Software Technology Park</td>
+  </tr>
+  <tr>
+    <td><b>Primary Stack</b></td>
+    <td>PHP 8.x, Laravel 10/11, MySQL, REST APIs, Livewire</td>
+  </tr>
+  <tr>
+    <td><b>Strength</b></td>
+    <td>Building secure, maintainable backend systems for real-world production</td>
+  </tr>
+  <tr>
+    <td><b>Location</b></td>
+    <td>Lahore, Punjab, Pakistan</td>
+  </tr>
+</table>
 
 ---
 
@@ -33,6 +62,12 @@ I build practical backend systems that run in production, not just demo apps. My
 - Production experience on live government portals under PITB
 - Strong debugging and issue-resolution mindset in real environments
 - Clean code, version control discipline, and team collaboration
+
+### 2026 Market Fit
+
+- API-first mindset with production deployment exposure
+- AI-augmented developer workflow for faster and better delivery
+- Strong fit for backend product teams and service-platform engineering
 
 ---
 
@@ -99,6 +134,8 @@ Islamabad, Pakistan | Aug 2024 - Sep 2024
 | Punjab eTransit System | Transit service digital platform | https://etransit.punjab.gov.pk |
 | Women Development Department Portal | Government web service portal | https://wdd.punjab.gov.pk |
 
+> Note: Some enterprise/government project repositories are private, but production URLs are publicly accessible.
+
 ---
 
 ## Education and Certifications
@@ -126,4 +163,8 @@ Virtual University of Pakistan
 
 <p align="center">
   <b>Open for Backend Developer roles, Laravel API projects, and AI-integrated engineering work.</b>
+</p>
+
+<p align="center">
+  <i>Let us build reliable backend systems that scale.</i>
 </p>
